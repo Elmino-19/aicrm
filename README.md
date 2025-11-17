@@ -1,15 +1,6 @@
-# Horilla CRM
+# AI CRM
 
-<div align="center">
-  <img src="static/favicon.ico" alt="Horilla CRM Logo" width="64" height="64">
-  <h3>Enterprise Customer Relationship Management System</h3>
-  <p>A comprehensive CRM solution designed for enterprise-level customer engagement, sales tracking, and business process automation.</p>
-</div>
 
-[![License](https://img.shields.io/badge/license-LGPL-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
-[![Django](https://img.shields.io/badge/django-5.2+-green.svg)](https://djangoproject.com)
-[![Docker](https://img.shields.io/badge/docker-supported-blue.svg)](https://docker.com)
 
 ## ✨ Features
 
@@ -63,8 +54,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/horilla-opensource/horilla-crm.git
-   cd horilla-crm
+   git clone https://github.com/Elmino-19/aicrm.git
+   cd aicrm
    ```
 
 2. **Configure environment** (optional)
@@ -414,7 +405,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Horilla team</p>
+  <p>Special thanks to the Horilla team</p>
   <p>
     <a href="https://github.com/horilla-opensource/horilla-crm">GitHub</a> •
     <a href="#documentation">Documentation</a> •
